@@ -28,5 +28,7 @@
 
 
 #หน้าตา index.html
-![index](https://github.com/oNgTZo/CE341_ID2274/assets/144314188/c48d3ce8-9c85-482f-9337-0c0517f0642d)
+
+![image](https://github.com/oNgTZo/CE341_ID2274/assets/144314188/7f58963d-6588-499c-bce5-b4e4dca8a985)
+
 
