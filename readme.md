@@ -27,6 +27,18 @@
 
 
 
+
+#ขั้นตอนการเอา index.html ไปขึ้นในหน้า browser ด้วย Apache
+ - 1.พิมพ์คำสั่ง ip address เพื่อดู IP ของเครื่องเรา
+
+![image](https://github.com/oNgTZo/CE341_ID2274/assets/144314188/20e8f29c-6d75-490d-9bed-4336a28faf5b)
+
+ - 2.พิมพ์คำสั่งว่า sudo mv index.html /var/www/html/
+ - 3.เมื่อพิมพ์คำสั่งเสร็จแล้ว ให้ไปที่ browser แล้วพิมพ์ IP ของตัวเองลงไปช่อง URL
+ - 
+![image](https://github.com/oNgTZo/CE341_ID2274/assets/144314188/5dac6fff-5862-4692-bc78-95ccc481bf3a)
+
+
 #หน้าตา index.html
 
 ![image](https://github.com/oNgTZo/CE341_ID2274/assets/144314188/7f58963d-6588-499c-bce5-b4e4dca8a985)
